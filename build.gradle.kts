@@ -3,6 +3,8 @@ plugins {
 	java
 }
 
+// ewewewew
+
 buildscript {
 	dependencies {
 		classpath(libs.android.gradle)
