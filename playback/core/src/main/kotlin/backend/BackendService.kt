@@ -7,7 +7,7 @@ import org.jellyfin.playback.core.ui.PlayerSubtitleView
 import org.jellyfin.playback.core.ui.PlayerSurfaceView
 
 /**
- * Service keeping track of the current playback backend and its related surface view.
+ * Service keeping track of the current playback backend and its related surface view...
  */
 class BackendService {
 	private var _backend: PlayerBackend? = null
