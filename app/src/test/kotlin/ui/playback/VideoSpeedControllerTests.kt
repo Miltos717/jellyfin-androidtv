@@ -1,7 +1,7 @@
 package org.jellyfin.androidtv.ui.playback
 
 import io.kotest.core.spec.style.FunSpec
-import io.kotest.matchers.floats.plusOrMinus
+import io.kotest.matchers.floats.plusOrMinusn  
 import io.kotest.matchers.shouldBe
 import io.mockk.every
 import io.mockk.justRun
