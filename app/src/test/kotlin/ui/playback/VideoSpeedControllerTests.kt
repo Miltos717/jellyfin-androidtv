@@ -7,7 +7,7 @@ import io.mockk.every
 import io.mockk.justRun
 import io.mockk.mockk
 import io.mockk.slot
-import io.mockk.verify
+import io.mockk.verify   
 
 class VideoSpeedControllerTests : FunSpec({
 	afterTest {
